@@ -29,7 +29,7 @@ export default function ModelCard() {
 
                 {/* ── Stats ── */}
                 <p className="text-[10px] sm:text-[11px] text-gray-500 font-light tracking-wide leading-relaxed">
-                    Height: 176&nbsp;&nbsp;Chest: 30&nbsp;&nbsp;Waist: 24&nbsp;&nbsp;Hips: 35&nbsp;&nbsp;Shoe Size: 38EU
+                    Height: 176&nbsp;&nbsp;Weight: 49&nbsp;&nbsp;Chest: 30&nbsp;&nbsp;Waist: 24&nbsp;&nbsp;Hips: 35&nbsp;&nbsp;Shoe Size: 38EU
                 </p>
 
                 {/* ── Photo ── */}
